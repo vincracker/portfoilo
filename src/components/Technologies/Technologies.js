@@ -6,7 +6,7 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './Techn
 const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider />
-    <SectionTitle> Technologies</SectionTitle>
+    <SectionTitle main> Technologies </SectionTitle>
     <SectionText>
       I've worked with a range of technologies in the web3.0 development world
       Blockchain based Decentralized Application
