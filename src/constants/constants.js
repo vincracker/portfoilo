@@ -1,11 +1,14 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
+    title: 'Keiji Inafune\'s NFT Project',
+    description: 
+      `A NFT Launching and Minting Web3 DApp on Ethereum developing with Next JS, Solidity and Moralis  - 
+      I built this from zero to one, from Smart Contract and Front-end. The website is built for Keiji Inafune - one of the designer of Rockman.
+      he released exclusive NFT collection called "Beastroid".`,
+      image: '/images/inafune.png',
+      tags: ['Solidity','Next', 'Ethereum','Moralis'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://aimee-beastroid.polkafantasy.com',
     id: 0,
   },
   {
